@@ -9,7 +9,7 @@ QSMODE is designed to:
 
 ## Paper Link
 
-You can access the open-source paper in the Journal of Artificial Intelligence Review on Springer Nature via the following link: [Paper link].
+You can access the open-source paper in the Artificial Intelligence Review Journal on Springer Nature via the following link: [Paper link].
 
 
 
