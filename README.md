@@ -9,7 +9,7 @@ QSMODE is designed to:
 
 ## Paper Link
 
-You can access the open-source paper in the Artificial Intelligence Review Journal on Springer Nature via the following link: [Paper link].
+You can access the open-source paper in the Artificial Intelligence Review Journal on Springer Nature via the following link: https://link.springer.com/article/10.1007/s10462-025-11129-6.
 
 
 
@@ -19,17 +19,26 @@ If you use this code in your research, please cite the following paper:
 
 ### BibTeX:
 ```bibtex
-
+@article{reda2025novel,
+  title={A novel reinforcement learning-based multi-operator differential evolution with cubic spline for the path planning problem},
+  author={Reda, Mohamed and Onsy, Ahmed and Haikal, Amira Y and Ghanbari, Ali},
+  journal={Artificial Intelligence Review},
+  volume={58},
+  number={5},
+  pages={142},
+  year={2025},
+  publisher={Springer}
+}
 ```
 
- ### AMA Style:
- ``` AMA Style
-
+ ### APA Style:
+ ``` APA Style
+Reda, M., Onsy, A., Haikal, A. Y., & Ghanbari, A. (2025). A novel reinforcement learning-based multi-operator differential evolution with cubic spline for the path planning problem. Artificial Intelligence Review, 58(5), 142.
 ```
 
  ### Chicago/Turabian Style
  ``` Chicago/Turabian Style
-
+Reda, Mohamed, Ahmed Onsy, Amira Y. Haikal, and Ali Ghanbari. "A novel reinforcement learning-based multi-operator differential evolution with cubic spline for the path planning problem." Artificial Intelligence Review 58, no. 5 (2025): 142.
 ```
 
    
