@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+title: "QSMODE-Algorithm"
+version: "1.0.0"
+date-released: 2025-02-24
+type: software
+authors:
+  - family-names: "Reda"
+    given-names: "Mohamed"
+    email: "mohamed.reda.mu@gmail.com"
+  - family-names: "Onsy"
+    given-names: "Ahmed"
+  - family-names: "Haikal"
+    given-names: "Amira Y."
+  - family-names: "Ghanbari"
+    given-names: "Ali"
+repository-code: "https://github.com/MohamedRedaMu/QSMODE-Algorithm"
+license: "MIT"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Reda"
+      given-names: "Mohamed"
+    - family-names: "Onsy"
+      given-names: "Ahmed"
+    - family-names: "Haikal"
+      given-names: "Amira Y."
+    - family-names: "Ghanbari"
+      given-names: "Ali"
+  title: "A novel reinforcement learning-based multi-operator differential evolution with cubic spline for the path planning problem"
+  journal: "Artificial Intelligence Review"
+  volume: 58
+  issue: 5
+  year: 2025
+  start: 142
+  doi: "10.1007/s10462-025-11129-6"
